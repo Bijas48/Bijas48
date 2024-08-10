@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Kusuma</h1>
 <h3 align="center">An ambitious person who is always trying new things. Currently interested in Back-end.</h3>
 
-- 🔭 I’m currently working on [Capstone Project](https://github.com/Bijas48/Backend-API-FinancyQ)
+- 🔭 I’m currently working on [Google Cloud Architect Assessment](https://www.dicoding.com/academies/332/corridor)
 
 - 🌱 I’m currently learning **Back-end Express.js**
 
