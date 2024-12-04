@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Google Cloud Architect Assessment](https://www.dicoding.com/academies/332/corridor) and [Google Cloud AI Study Jam: #JuaraGCP Season 10](https://rsvp.withgoogle.com/events/juaragcp-s10/home)
 
-- 🌱 I’m currently learning **Back-end Express.js and Cloud Computing**
+- 🌱 I’m currently learning **Back-end Express.js, Cloud Computing and Front-end Vue.js/Nuxt.js**
 
 - 📫 How to reach me **adriankwk9m@gmail.com**
 
