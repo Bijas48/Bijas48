@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrian Kusuma</h1>
 <h3 align="center">An ambitious person who is always trying new things. Currently interested in Back-end.</h3>
 
-- 🔭 I’m currently working on [Google Cloud Architect Assessment](https://www.dicoding.com/academies/332/corridor) and [Google Cloud AI Study Jam: #JuaraGCP Season 10](https://rsvp.withgoogle.com/events/juaragcp-s10/home)
+- 🔭 I’m currently working on **sarjana's thesis** 
 
-- 🌱 I’m currently learning **Back-end Express.js, Cloud Computing and Front-end Vue.js/Nuxt.js**
+- 🌱 I’m currently learning **Back-end Golang**
 
-- 📫 How to reach me **adriankwk9m@gmail.com**
+- 📫 How to reach me **adriankusumawk@gmail.com**
 
 - ⚡ Fun fact **Just Gimme Meme instead say Hi xixixi**
 
