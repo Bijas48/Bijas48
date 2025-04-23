@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Kusuma</h1>
 <h3 align="center">An ambitious person who is always trying new things. Currently interested in Back-end.</h3>
 
-- 🔭 I’m currently working on **sarjana's thesis** 
+- 🔭 I’m currently working on **thesis** 
 
 - 🌱 I’m currently learning **Back-end Golang**
 
